@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Fonts/highlight.spritefont</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Fonts/regular.spritefont</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Fonts/title.spritefont</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Images/background.jpg</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Images/bullet.png</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Images/death.png</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Images/door.png</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Images/firework.png</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Images/ground.png</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Images/help.png</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Images/kid.png</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Images/killer.png</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Sounds/bgm.mp3</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Sounds/shoot.wav</File>
+    <File>C:/Users/fifi0/OneDrive/桌面/Prog2370/final/RLFinalProject/RLFinalProject/Content/Sounds/win.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
